@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Arnav!
-- 👨🏽‍💻 I’m currently a junior @IITB pursuing a Computer Science major 
-- 🌱 I am interested in learning more about OSes, compilers and ML.
+- 👨🏽‍💻 Junior @IITB pursuing a Computer Science major 
+- 🌱 Interested in learning more about OSes, compilers and ML.
 - 💬 Ask me about anything, I am happy to help!
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=HehBot&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
